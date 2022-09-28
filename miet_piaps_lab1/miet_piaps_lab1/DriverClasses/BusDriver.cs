@@ -1,0 +1,49 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace miet_piaps_lab1.DriverClasses
+{
+    class BusDriver : Driver
+    {
+        private static List<Driver> busDrivers = null;
+        public static readonly int limit = 2;
+        public static int busDriverCounter = 0;
+        private BusDriver()
+        {
+            BusDriver.busDriverCounter++;
+
+            this.id = BusDriver.busDriverCounter;
+            this.name = "BusDriver" + this.id.ToString();
+            this.experience = (Driver.rnd).Next(1, 57);
+            BusDriver.busDrivers.Add(this);
+        }
+
+        public static List<Driver> GetDrivers()
+        {
+            return BusDriver.busDrivers;
+        }
+
+        public static Driver GetNewDriver()
+        {
+            if (BusDriver.busDriverCounter == BusDriver.limit)
+            {
+                Console.WriteLine("There are no more free bus drivers!");
+                return null;
+            }
+            else
+            if (BusDriver.busDriverCounter == 0)
+            {
+                BusDriver.busDrivers = new List<Driver>();
+            }
+
+            return new BusDriver();
+        }
+
+        public override string ToString()
+        {
+            return String.Format("BUSDRIVER id:{0} name:{1} exp:{2}",
+                this.id.ToString(), this.name, this.experience.ToString());
+        }
+    }
+}
