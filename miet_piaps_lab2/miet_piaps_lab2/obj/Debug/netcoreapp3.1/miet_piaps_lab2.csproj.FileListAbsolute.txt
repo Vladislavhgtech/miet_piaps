@@ -3,3 +3,12 @@ C:\Users\vld85\source\repos\miet_piaps_lab2\miet_piaps_lab2\obj\Debug\netcoreapp
 C:\Users\vld85\source\repos\miet_piaps_lab2\miet_piaps_lab2\obj\Debug\netcoreapp3.1\miet_piaps_lab2.AssemblyInfoInputs.cache
 C:\Users\vld85\source\repos\miet_piaps_lab2\miet_piaps_lab2\obj\Debug\netcoreapp3.1\miet_piaps_lab2.AssemblyInfo.cs
 C:\Users\vld85\source\repos\miet_piaps_lab2\miet_piaps_lab2\obj\Debug\netcoreapp3.1\miet_piaps_lab2.csproj.CoreCompileInputs.cache
+C:\Users\vld85\source\repos\miet_piaps_lab2\miet_piaps_lab2\bin\Debug\netcoreapp3.1\miet_piaps_lab2.exe
+C:\Users\vld85\source\repos\miet_piaps_lab2\miet_piaps_lab2\bin\Debug\netcoreapp3.1\miet_piaps_lab2.deps.json
+C:\Users\vld85\source\repos\miet_piaps_lab2\miet_piaps_lab2\bin\Debug\netcoreapp3.1\miet_piaps_lab2.runtimeconfig.json
+C:\Users\vld85\source\repos\miet_piaps_lab2\miet_piaps_lab2\bin\Debug\netcoreapp3.1\miet_piaps_lab2.runtimeconfig.dev.json
+C:\Users\vld85\source\repos\miet_piaps_lab2\miet_piaps_lab2\bin\Debug\netcoreapp3.1\miet_piaps_lab2.dll
+C:\Users\vld85\source\repos\miet_piaps_lab2\miet_piaps_lab2\bin\Debug\netcoreapp3.1\miet_piaps_lab2.pdb
+C:\Users\vld85\source\repos\miet_piaps_lab2\miet_piaps_lab2\obj\Debug\netcoreapp3.1\miet_piaps_lab2.dll
+C:\Users\vld85\source\repos\miet_piaps_lab2\miet_piaps_lab2\obj\Debug\netcoreapp3.1\miet_piaps_lab2.pdb
+C:\Users\vld85\source\repos\miet_piaps_lab2\miet_piaps_lab2\obj\Debug\netcoreapp3.1\miet_piaps_lab2.genruntimeconfig.cache
