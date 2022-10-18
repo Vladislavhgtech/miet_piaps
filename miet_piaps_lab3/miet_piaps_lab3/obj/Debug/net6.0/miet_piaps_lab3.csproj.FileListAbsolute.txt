@@ -1,0 +1,15 @@
+C:\Users\vld85\source\repos\miet_piaps_lab3\miet_piaps_lab3\bin\Debug\net6.0\miet_piaps_lab3.exe
+C:\Users\vld85\source\repos\miet_piaps_lab3\miet_piaps_lab3\bin\Debug\net6.0\miet_piaps_lab3.deps.json
+C:\Users\vld85\source\repos\miet_piaps_lab3\miet_piaps_lab3\bin\Debug\net6.0\miet_piaps_lab3.runtimeconfig.json
+C:\Users\vld85\source\repos\miet_piaps_lab3\miet_piaps_lab3\bin\Debug\net6.0\miet_piaps_lab3.dll
+C:\Users\vld85\source\repos\miet_piaps_lab3\miet_piaps_lab3\bin\Debug\net6.0\miet_piaps_lab3.pdb
+C:\Users\vld85\source\repos\miet_piaps_lab3\miet_piaps_lab3\obj\Debug\net6.0\miet_piaps_lab3.csproj.AssemblyReference.cache
+C:\Users\vld85\source\repos\miet_piaps_lab3\miet_piaps_lab3\obj\Debug\net6.0\miet_piaps_lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vld85\source\repos\miet_piaps_lab3\miet_piaps_lab3\obj\Debug\net6.0\miet_piaps_lab3.AssemblyInfoInputs.cache
+C:\Users\vld85\source\repos\miet_piaps_lab3\miet_piaps_lab3\obj\Debug\net6.0\miet_piaps_lab3.AssemblyInfo.cs
+C:\Users\vld85\source\repos\miet_piaps_lab3\miet_piaps_lab3\obj\Debug\net6.0\miet_piaps_lab3.csproj.CoreCompileInputs.cache
+C:\Users\vld85\source\repos\miet_piaps_lab3\miet_piaps_lab3\obj\Debug\net6.0\miet_piaps_lab3.dll
+C:\Users\vld85\source\repos\miet_piaps_lab3\miet_piaps_lab3\obj\Debug\net6.0\refint\miet_piaps_lab3.dll
+C:\Users\vld85\source\repos\miet_piaps_lab3\miet_piaps_lab3\obj\Debug\net6.0\miet_piaps_lab3.pdb
+C:\Users\vld85\source\repos\miet_piaps_lab3\miet_piaps_lab3\obj\Debug\net6.0\miet_piaps_lab3.genruntimeconfig.cache
+C:\Users\vld85\source\repos\miet_piaps_lab3\miet_piaps_lab3\obj\Debug\net6.0\ref\miet_piaps_lab3.dll
