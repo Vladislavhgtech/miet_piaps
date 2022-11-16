@@ -1,0 +1,16 @@
+C:\miet\Tkach.Lab5.Interpreter\Tkach.Lab5.Interpreter\bin\Debug\Tkach.Lab5.Interpreter.exe.config
+C:\miet\Tkach.Lab5.Interpreter\Tkach.Lab5.Interpreter\bin\Debug\Tkach.Lab5.Interpreter.exe
+C:\miet\Tkach.Lab5.Interpreter\Tkach.Lab5.Interpreter\bin\Debug\Tkach.Lab5.Interpreter.pdb
+C:\miet\Tkach.Lab5.Interpreter\Tkach.Lab5.Interpreter\obj\Debug\Tkach.Lab5.Interpreter.csproj.AssemblyReference.cache
+C:\miet\Tkach.Lab5.Interpreter\Tkach.Lab5.Interpreter\obj\Debug\Tkach.Lab5.Interpreter.csproj.SuggestedBindingRedirects.cache
+C:\miet\Tkach.Lab5.Interpreter\Tkach.Lab5.Interpreter\obj\Debug\MainWindow.g.cs
+C:\miet\Tkach.Lab5.Interpreter\Tkach.Lab5.Interpreter\obj\Debug\App.g.cs
+C:\miet\Tkach.Lab5.Interpreter\Tkach.Lab5.Interpreter\obj\Debug\Tkach.Lab5.Interpreter_MarkupCompile.cache
+C:\miet\Tkach.Lab5.Interpreter\Tkach.Lab5.Interpreter\obj\Debug\Tkach.Lab5.Interpreter_MarkupCompile.lref
+C:\miet\Tkach.Lab5.Interpreter\Tkach.Lab5.Interpreter\obj\Debug\MainWindow.baml
+C:\miet\Tkach.Lab5.Interpreter\Tkach.Lab5.Interpreter\obj\Debug\Tkach.Lab5.Interpreter.g.resources
+C:\miet\Tkach.Lab5.Interpreter\Tkach.Lab5.Interpreter\obj\Debug\Tkach.Lab5.Interpreter.Properties.Resources.resources
+C:\miet\Tkach.Lab5.Interpreter\Tkach.Lab5.Interpreter\obj\Debug\Tkach.Lab5.Interpreter.csproj.GenerateResource.cache
+C:\miet\Tkach.Lab5.Interpreter\Tkach.Lab5.Interpreter\obj\Debug\Tkach.Lab5.Interpreter.csproj.CoreCompileInputs.cache
+C:\miet\Tkach.Lab5.Interpreter\Tkach.Lab5.Interpreter\obj\Debug\Tkach.Lab5.Interpreter.exe
+C:\miet\Tkach.Lab5.Interpreter\Tkach.Lab5.Interpreter\obj\Debug\Tkach.Lab5.Interpreter.pdb
