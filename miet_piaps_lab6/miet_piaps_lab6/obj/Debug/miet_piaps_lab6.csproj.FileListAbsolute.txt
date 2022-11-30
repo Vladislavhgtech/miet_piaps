@@ -1,0 +1,8 @@
+C:\dev_1\miet_piaps\miet_piaps_lab6\miet_piaps_lab6\bin\Debug\miet_piaps_lab6.exe.config
+C:\dev_1\miet_piaps\miet_piaps_lab6\miet_piaps_lab6\bin\Debug\miet_piaps_lab6.exe
+C:\dev_1\miet_piaps\miet_piaps_lab6\miet_piaps_lab6\bin\Debug\miet_piaps_lab6.pdb
+C:\dev_1\miet_piaps\miet_piaps_lab6\miet_piaps_lab6\obj\Debug\miet_piaps_lab6.csproj.AssemblyReference.cache
+C:\dev_1\miet_piaps\miet_piaps_lab6\miet_piaps_lab6\obj\Debug\miet_piaps_lab6.csproj.SuggestedBindingRedirects.cache
+C:\dev_1\miet_piaps\miet_piaps_lab6\miet_piaps_lab6\obj\Debug\miet_piaps_lab6.csproj.CoreCompileInputs.cache
+C:\dev_1\miet_piaps\miet_piaps_lab6\miet_piaps_lab6\obj\Debug\miet_piaps_lab6.exe
+C:\dev_1\miet_piaps\miet_piaps_lab6\miet_piaps_lab6\obj\Debug\miet_piaps_lab6.pdb
